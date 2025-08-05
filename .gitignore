@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+*.zip
+
+# Terraform
+terraform.tfstate
+terraform.tfstate.*
+.terraform/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# Output or debug
+output.json
+tfplan
+
